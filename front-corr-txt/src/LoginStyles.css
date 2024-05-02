@@ -1,0 +1,27 @@
+/* LoginStyles.css */
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 350px);
+    padding: 2rem;
+}
+
+.login-paper {
+    padding: 1rem;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    border-radius: 16px;
+}
+
+.login-field {
+    border-radius: 8px;
+}
+
+.login-button {
+    border-radius: 8px;
+    margin-top: 16px;
+}

@@ -1,0 +1,8 @@
+[
+  { "path": "/login", "label": "Login", "component": "login" },
+  { "path": "/", "label": "Home", "component": "home" },
+  { "path": "/bancos", "label": "Bancospppp", "component": "bancos" },
+  { "path": "/sobre", "label": "Sobre", "component": "About" },
+  { "path": "/servico", "label": "Serviços", "component": "services" },
+  { "path": "/contato", "label": "Contato", "component": "ContactPages" }
+]
